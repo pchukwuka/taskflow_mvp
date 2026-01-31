@@ -39,7 +39,7 @@ Startups need a fast, low-cost way to validate ideas. TASKFLOW is an MVP to quic
 1. Clone the repo:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/pchukwuka/taskflow_mvp.git
 cd taskflow_mvp
 ```
 
@@ -52,8 +52,7 @@ cd taskflow_mvp
 
 ##  Deployment (Summary)
 
-This project is a static site (HTML/CSS/JS only). You can deploy it to any static hosting platform: **Vercel**, **Netlify**, or **GitHub Pages**.
-
+This project is deployed on **Vercel** using static hosting (HTML/CSS/JS only). Other static platforms like Netlify or GitHub Pages would also work.
 See `DEPLOYMENT.md` for step-by-step instructions (Vercel preferred for simplicity).
 
  
@@ -81,12 +80,13 @@ A more detailed explanation and diagram are in `INFRASTRUCTURE.md`.
 ##  Repository Structure
 
 
-/peace
+/taskflow_mvp
   ├── index.html
   ├── style.css
   ├── script.js
   ├── README.md
   ├── DEPLOYMENT.md
   └── INFRASTRUCTURE.md
+
 
 
