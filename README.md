@@ -5,10 +5,7 @@ A lightweight, responsive task management web app built with **HTML**, **CSS**, 
 
 ##  Live Demo
 
- Live URL: **REPLACE_WITH_YOUR_DEPLOYED_URL**
-
-(If you deploy to Vercel, Netlify, or GitHub Pages, put the final URL above.)
-
+ Live URL: https://taskflow-mvp-snowy.vercel.app/
  
 
 ##  Problem Statement & Idea
@@ -43,7 +40,7 @@ Startups need a fast, low-cost way to validate ideas. TASKFLOW is an MVP to quic
 
 ```bash
 git clone <your-repo-url>
-cd peace
+cd taskflow_mvp
 ```
 
 2. Quick options to run locally:
@@ -91,4 +88,5 @@ A more detailed explanation and diagram are in `INFRASTRUCTURE.md`.
   ├── README.md
   ├── DEPLOYMENT.md
   └── INFRASTRUCTURE.md
+
 
